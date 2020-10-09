@@ -18,14 +18,14 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
-### Connect with me:
 
-[<img align="left" alt="qikaile.tk" width="22px" src="https://cdn.jsdelivr.net/gh/Qikaile/cdn/globe.svg" />][website]
-[<img align="left" alt="Qikaile | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Qikaile | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Qikaile | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Qikaile | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+### :mailbox: Connect with me:
+[<img align="left" alt="Qikaile | Gmail" width="22px" src="https://img.icons8.com/bubbles/50/000000/gmail.png" />][gmail]
+[<img align="left" alt="qikaile.tk" width="22px" src="https://img.icons8.com/bubbles/50/000000/globe.png" />][website]
+[<img align="left" alt="Qikaile | YouTube" width="22px" src="https://img.icons8.com/bubbles/50/000000/youtube.png" />][youtube]
+[<img align="left" alt="Qikaile | Instagram" width="22px" src="https://img.icons8.com/bubbles/50/000000/facebook.png" />][facebook]
+[<img align="left" alt="Qikaile | Twitter" width="22px" src="https://img.icons8.com/bubbles/50/000000/twitter.png" />][twitter]
+[<img align="left" alt="Qikaile | Instagram" width="22px" src="https://img.icons8.com/bubbles/50/000000/instagram.png" />][instagram]
 
 <br />
 <br />
@@ -75,6 +75,7 @@
 </details>
 
 [website]: https://qikaile.tk
+[gmail]: mailto:qikaile152056264070@gmail.com
 [facebook]: https://facebook.com/qikaile
 [twitter]: https://twitter.com/qikaile
 [youtube]: https://youtube.com/channel/UCCY24D6Az4xT2XUHpqjHMpg
