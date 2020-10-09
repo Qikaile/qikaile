@@ -7,7 +7,7 @@
 
 ## I'm a Qikaile, Developer, and Student !!
 
-- 🔭 I just set up my first blog: [天境云生][website]!
+- 🔭 I just set up my first blog: [TJYS][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
