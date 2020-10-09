@@ -3,6 +3,8 @@
 [![Website](https://img.shields.io/website?label=qikaile.tk&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://qikaile.tk)
 [![Twitter Follow](https://img.shields.io/twitter/follow/qikaile?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=qikaile)
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 ## I'm a Qikaile, Developer, and Student !!
 
 - 🔭 I just set up my first blog: [天境云生][website]!
@@ -11,7 +13,6 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I like taking photos
 
-<img align='right' src="https://gph.is/st/mZjo0jm" width="230">
 
 ### Music Playing 🎧
 
