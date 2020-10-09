@@ -5,7 +5,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-## I'm a Qikaile, Mechanical engineer, and Student !!
+## I'm a Developer, Mechanical engineer, and Student !!
 
 - 🔭 I just set up my first blog: [TJYS][website]!
 - 🌱 I’m currently learning everything 🤣
