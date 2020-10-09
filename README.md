@@ -27,6 +27,15 @@
 <br />
 <br />
 
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://qikaile.tk)
+
 [website]: https://qikaile.tk
 [facebook]: https://facebook.com/qikaile
 [twitter]: https://twitter.com/qikaile
