@@ -5,7 +5,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-## I'm a Qikaile, Developer, and Student !!
+## I'm a Qikaile, Mechanical engineer, and Student !!
 
 - 🔭 I just set up my first blog: [TJYS][website]!
 - 🌱 I’m currently learning everything 🤣
@@ -14,7 +14,7 @@
 - ⚡ Fun fact: I like taking photos
 
 
-### Music Playing 🎧
+### 🎧 Music Playing 
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
