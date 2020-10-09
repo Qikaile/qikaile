@@ -20,12 +20,12 @@
 
 
 ### :mailbox: Connect with me:
-[<img align="left" alt="Qikaile | Gmail" width="30px" src="https://img.icons8.com/bubbles/50/000000/gmail.png" />][gmail]
-[<img align="left" alt="qikaile.tk" width="30px" src="https://img.icons8.com/bubbles/50/000000/globe.png" />][website]
-[<img align="left" alt="Qikaile | YouTube" width="30px" src="https://img.icons8.com/bubbles/50/000000/youtube.png" />][youtube]
-[<img align="left" alt="Qikaile | Instagram" width="30px" src="https://img.icons8.com/bubbles/50/000000/facebook.png" />][facebook]
-[<img align="left" alt="Qikaile | Twitter" width="30px" src="https://img.icons8.com/bubbles/50/000000/twitter.png" />][twitter]
-[<img align="left" alt="Qikaile | Instagram" width="30px" src="https://img.icons8.com/bubbles/50/000000/instagram.png" />][instagram]
+[<img align="left" alt="Qikaile | Gmail" width="40px" src="https://img.icons8.com/bubbles/50/000000/gmail.png" />][gmail]
+[<img align="left" alt="qikaile.tk" width="40px" src="https://img.icons8.com/bubbles/50/000000/globe.png" />][website]
+[<img align="left" alt="Qikaile | YouTube" width="40px" src="https://img.icons8.com/bubbles/50/000000/youtube.png" />][youtube]
+[<img align="left" alt="Qikaile | Instagram" width="40px" src="https://img.icons8.com/bubbles/50/000000/facebook.png" />][facebook]
+[<img align="left" alt="Qikaile | Twitter" width="40px" src="https://img.icons8.com/bubbles/50/000000/twitter.png" />][twitter]
+[<img align="left" alt="Qikaile | Instagram" width="40px" src="https://img.icons8.com/bubbles/50/000000/instagram.png" />][instagram]
 
 <br />
 <br />
@@ -57,15 +57,6 @@
 ➡️ [more blog posts...](https://qikaile.tk)
 
 ---
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
