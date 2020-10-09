@@ -2,7 +2,7 @@ name: update-gh-activity
 
 on:
   schedule:
-    - cron: '30 * * * *'
+    - cron: '0 * * * *'
 
 jobs:
   build:
@@ -13,3 +13,4 @@ jobs:
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+        
