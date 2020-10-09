@@ -34,7 +34,7 @@
 - [Music Box](https://www.youtube.com/watch?v=0iHvQjwq3x8)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...](https://youtube.com/channel/UCCY24D6Az4xT2XUHpqjHMpg)
 
 ---
 
@@ -63,7 +63,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="qikaile's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=qikaile&show_icons=true&hide_border=true" />
+  <img align="left" alt="qikaile's GitHub Stats" src="https://github-readme-stats.qikaile.vercel.app/api?username=qikaile&show_icons=true&hide_border=true" />
 
 </details>
 
