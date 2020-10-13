@@ -66,7 +66,7 @@
 </details>
 
 [website]: https://qikaile.tk
-[gmail]: mailto:qikaile152056264070@gmail.com
+[gmail]: mailto:qikaile15205626407@gmail.com
 [facebook]: https://facebook.com/qikaile
 [twitter]: https://twitter.com/qikaile
 [youtube]: https://youtube.com/channel/UCCY24D6Az4xT2XUHpqjHMpg
