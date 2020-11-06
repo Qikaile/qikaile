@@ -16,7 +16,7 @@
 
 ### 🎧 Music Playing 
 
-[<img src="https://spotify-now-playing-neon.vercel.app/api/spotify-playing" alt="Qikaile Spotify Playing" width="350" />](https://open.spotify.com/user/b8d130931cd34ac9b43f99379462c71c)
+[<img src="https://spotify-now-playing-neon.vercel.app/api/spotify-playing" alt="Qikaile Spotify Playing" width="350" />](https://open.spotify.com/user/	nalvfc5s1w552zttp8r4ya8jp)
 
 
 ### :mailbox: Connect with me:
