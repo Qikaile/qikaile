@@ -16,7 +16,7 @@
 
 ### 🎧 Music Playing 
 
-[<img src="https://spotify-now-playing.qikaile.vercel.app/api/spotify-playing" alt="Qikaile Spotify Playing" width="350" />](https://open.spotify.com/user/nalvfc5s1w552zttp8r4ya8jp)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Qikaile Spotify Playing" width="350" />](https://open.spotify.com/user/nalvfc5s1w552zttp8r4ya8jp)
 
 
 ### :mailbox: Connect with me:
