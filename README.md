@@ -1,6 +1,7 @@
 ### Hi there, I'm Qikaile- aka [TJYS][website] 👋
 
 [![Website](https://img.shields.io/website?label=qikaile.tk&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://qikaile.tk)
+[！[命中]（https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqikaile&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title = hits＆edge_flat = false）]（https://hits.seeyoufarm.com）
 [![Twitter Follow](https://img.shields.io/twitter/follow/qikaile?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=qikaile)
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
