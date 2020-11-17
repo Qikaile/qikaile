@@ -50,8 +50,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [markdown笔记](https://qikaile.tk/markdown%E7%AC%94%E8%AE%B0.html)
 - [PS功能精通课](https://qikaile.tk/PS%E5%8A%9F%E8%83%BD%E7%B2%BE%E9%80%9A%E8%AF%BE.html)
-- [Pandas中文手册](https://qikaile.tk/pandas%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C.html)
 - [十分钟搞定 pandas](https://qikaile.tk/%E5%8D%81%E5%88%86%E9%92%9F%E6%90%9E%E5%AE%9Apandas.html)
+- [Pandas中文手册](https://qikaile.tk/pandas%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://qikaile.tk)
