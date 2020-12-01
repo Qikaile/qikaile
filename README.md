@@ -10,7 +10,7 @@
 - 🔭 I just set up my first blog: [TJYS][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2020 Goals: Contribute more projects
 - ⚡ Fun fact: I like taking photos
 
 
