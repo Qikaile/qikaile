@@ -23,7 +23,7 @@
 [<img align="left" alt="Qikaile | Gmail" width="40px" src="https://img.icons8.com/bubbles/50/000000/gmail.png" />][gmail]
 [<img align="left" alt="qikaile.tk" width="40px" src="https://img.icons8.com/bubbles/50/000000/globe.png" />][website]
 [<img align="left" alt="Qikaile | YouTube" width="40px" src="https://img.icons8.com/bubbles/50/000000/youtube.png" />][youtube]
-[<img align="left" alt="Qikaile | Instagram" width="40px" src="https://img.icons8.com/bubbles/50/000000/facebook.png" />][facebook]
+[<img align="left" alt="Qikaile | Facebook" width="40px" src="https://img.icons8.com/bubbles/50/000000/facebook.png" />][facebook]
 [<img align="left" alt="Qikaile | Twitter" width="40px" src="https://img.icons8.com/bubbles/50/000000/twitter.png" />][twitter]
 [<img align="left" alt="Qikaile | Instagram" width="40px" src="https://img.icons8.com/bubbles/50/000000/instagram.png" />][instagram]
 
