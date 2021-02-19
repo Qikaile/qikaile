@@ -63,6 +63,7 @@
 
 <img height="180em" src="https://github-readme-stats.qikaile.vercel.app/api?username=qikaile&show_icons=true&hide_border=true" />
 <img height="180em" src="https://github-readme-stats.qikaile.vercel.app/api/top-langs/?username=qikaile&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qikaile&" alt="qikaile" /></p>
 </details>
 
 [website]: https://qikaile.tk
