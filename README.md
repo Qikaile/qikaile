@@ -48,10 +48,10 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [使用 CloudFlare 加速你的网站](https://qikaile.tk/CloudFlare-optional-ip.html)
-- [OneManager+CloudFlare Workers部署教程](https://qikaile.tk/OneManager-CloudFlare-Workers.html)
-- [安装Cloudreve 新版V3(go版本)](https://qikaile.tk/Cloudreve.html)
-- [Vercel反向代理做CDN，免费给网站加速隐藏源站，可绑定域名](https://qikaile.tk/vercel-cdn-website.html)
+- [uptime-status站点状态监控](https://qikaile.tk/uptime-status.html)
+- [Github如何更新Fork的仓库](https://qikaile.tk/github-fork-update.html)
+- [Hexo-NexT Tag 插件的使用](https://qikaile.tk/hexo-next-Tag-Plugin.html)
+- [Github图片加速心得](https://qikaile.tk/github-picture-cdn.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://qikaile.tk)
