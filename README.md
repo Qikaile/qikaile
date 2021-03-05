@@ -48,10 +48,10 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [onedrive-cf-index 搭建教程](https://qikaile.tk/onedrive-cf-index-tutorial.html)
 - [uptime-status站点状态监控](https://qikaile.tk/uptime-status.html)
 - [Github如何更新Fork的仓库](https://qikaile.tk/github-fork-update.html)
 - [Hexo-NexT Tag 插件的使用](https://qikaile.tk/hexo-next-Tag-Plugin.html)
-- [Github图片加速心得](https://qikaile.tk/github-picture-cdn.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://qikaile.tk)
