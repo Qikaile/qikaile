@@ -61,11 +61,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Qikaile/cdn/pull/1) in [Qikaile/cdn](https://github.com/Qikaile/cdn)
-2. 🗣 Commented on [#124](https://github.com/spencerwooo/onedrive-cf-index/issues/124) in [spencerwooo/onedrive-cf-index](https://github.com/spencerwooo/onedrive-cf-index)
-3. ❗️ Opened issue [#124](https://github.com/spencerwooo/onedrive-cf-index/issues/124) in [spencerwooo/onedrive-cf-index](https://github.com/spencerwooo/onedrive-cf-index)
-4. ❗️ Opened issue [#122](https://github.com/spencerwooo/onedrive-cf-index/issues/122) in [spencerwooo/onedrive-cf-index](https://github.com/spencerwooo/onedrive-cf-index)
-5. ❗️ Opened issue [#1](https://github.com/Qikaile/links/issues/1) in [Qikaile/links](https://github.com/Qikaile/links)
+1. 💪 Opened PR [#1](https://github.com/kaileqi/kaileqi.github.io/pull/1) in [kaileqi/kaileqi.github.io](https://github.com/kaileqi/kaileqi.github.io)
+2. 🎉 Merged PR [#1](https://github.com/Qikaile/cdn/pull/1) in [Qikaile/cdn](https://github.com/Qikaile/cdn)
+3. 🗣 Commented on [#124](https://github.com/spencerwooo/onedrive-cf-index/issues/124) in [spencerwooo/onedrive-cf-index](https://github.com/spencerwooo/onedrive-cf-index)
+4. ❗️ Opened issue [#124](https://github.com/spencerwooo/onedrive-cf-index/issues/124) in [spencerwooo/onedrive-cf-index](https://github.com/spencerwooo/onedrive-cf-index)
+5. ❗️ Opened issue [#122](https://github.com/spencerwooo/onedrive-cf-index/issues/122) in [spencerwooo/onedrive-cf-index](https://github.com/spencerwooo/onedrive-cf-index)
 <!--END_SECTION:activity-->
 
 </details>
