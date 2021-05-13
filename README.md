@@ -61,11 +61,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/kaileqi/kaileqi.github.io/pull/1) in [kaileqi/kaileqi.github.io](https://github.com/kaileqi/kaileqi.github.io)
-2. 🎉 Merged PR [#1](https://github.com/Qikaile/cdn/pull/1) in [Qikaile/cdn](https://github.com/Qikaile/cdn)
-3. 🗣 Commented on [#124](https://github.com/spencerwooo/onedrive-cf-index/issues/124) in [spencerwooo/onedrive-cf-index](https://github.com/spencerwooo/onedrive-cf-index)
-4. ❗️ Opened issue [#124](https://github.com/spencerwooo/onedrive-cf-index/issues/124) in [spencerwooo/onedrive-cf-index](https://github.com/spencerwooo/onedrive-cf-index)
-5. ❗️ Opened issue [#122](https://github.com/spencerwooo/onedrive-cf-index/issues/122) in [spencerwooo/onedrive-cf-index](https://github.com/spencerwooo/onedrive-cf-index)
+1. ❗️ Closed issue [#6](https://github.com/Qikaile/tjys-notes/issues/6) in [Qikaile/tjys-notes](https://github.com/Qikaile/tjys-notes)
+2. ❗️ Closed issue [#5](https://github.com/Qikaile/tjys-notes/issues/5) in [Qikaile/tjys-notes](https://github.com/Qikaile/tjys-notes)
+3. ❗️ Closed issue [#4](https://github.com/Qikaile/tjys-notes/issues/4) in [Qikaile/tjys-notes](https://github.com/Qikaile/tjys-notes)
+4. ❗️ Closed issue [#3](https://github.com/Qikaile/tjys-notes/issues/3) in [Qikaile/tjys-notes](https://github.com/Qikaile/tjys-notes)
+5. ❗️ Closed issue [#2](https://github.com/Qikaile/tjys-notes/issues/2) in [Qikaile/tjys-notes](https://github.com/Qikaile/tjys-notes)
 <!--END_SECTION:activity-->
 
 </details>
