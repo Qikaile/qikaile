@@ -61,11 +61,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/Qikaile/tjys-notes/issues/6) in [Qikaile/tjys-notes](https://github.com/Qikaile/tjys-notes)
-2. ❗️ Closed issue [#5](https://github.com/Qikaile/tjys-notes/issues/5) in [Qikaile/tjys-notes](https://github.com/Qikaile/tjys-notes)
-3. ❗️ Closed issue [#4](https://github.com/Qikaile/tjys-notes/issues/4) in [Qikaile/tjys-notes](https://github.com/Qikaile/tjys-notes)
-4. ❗️ Closed issue [#3](https://github.com/Qikaile/tjys-notes/issues/3) in [Qikaile/tjys-notes](https://github.com/Qikaile/tjys-notes)
-5. ❗️ Closed issue [#2](https://github.com/Qikaile/tjys-notes/issues/2) in [Qikaile/tjys-notes](https://github.com/Qikaile/tjys-notes)
+1. ❗️ Opened issue [#8](https://github.com/Qikaile/tjys-notes/issues/8) in [Qikaile/tjys-notes](https://github.com/Qikaile/tjys-notes)
+2. ❗️ Opened issue [#7](https://github.com/Qikaile/tjys-notes/issues/7) in [Qikaile/tjys-notes](https://github.com/Qikaile/tjys-notes)
+3. ❗️ Closed issue [#6](https://github.com/Qikaile/tjys-notes/issues/6) in [Qikaile/tjys-notes](https://github.com/Qikaile/tjys-notes)
+4. ❗️ Closed issue [#5](https://github.com/Qikaile/tjys-notes/issues/5) in [Qikaile/tjys-notes](https://github.com/Qikaile/tjys-notes)
+5. ❗️ Closed issue [#4](https://github.com/Qikaile/tjys-notes/issues/4) in [Qikaile/tjys-notes](https://github.com/Qikaile/tjys-notes)
 <!--END_SECTION:activity-->
 
 </details>
