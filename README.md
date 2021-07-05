@@ -77,7 +77,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qikaile&" alt="qikaile" /></p>
 </details>
 
-[website]: https://qikaile.tk
+[website]: https://blog.qikaile.tk
 [gmail]: mailto:admin@qikaile.tk
 [facebook]: https://facebook.com/qikaile
 [twitter]: https://twitter.com/qikaile
