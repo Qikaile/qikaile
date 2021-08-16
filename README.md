@@ -54,7 +54,7 @@
 - [MATLAB如何进行系统辨识（传递函数）](https://blog.qikaile.tk/index.php/archives/39/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://qikaile.tk)
+➡️ [more blog posts...](https://blog.qikaile.tk)
 
 ---
 <details>
