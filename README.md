@@ -48,10 +48,10 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [如何在百度收录平台注册账号获取Token](https://qikaile.tk/baidu-token.html)
-- [你可能不知道的15个有用的Github功能](https://qikaile.tk/15-useful-functions-of-Github.html)
-- [onedrive-cf-index 搭建教程](https://qikaile.tk/onedrive-cf-index-tutorial.html)
-- [uptime-status站点状态监控](https://qikaile.tk/uptime-status.html)
+- [VB常见控件总结](https://blog.qikaile.tk/index.php/archives/42/)
+- [VB6.0学习笔记](https://blog.qikaile.tk/index.php/archives/41/)
+- [必备软件+网站推荐](https://blog.qikaile.tk/index.php/archives/40/)
+- [MATLAB如何进行系统辨识（传递函数）](https://blog.qikaile.tk/index.php/archives/39/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://qikaile.tk)
