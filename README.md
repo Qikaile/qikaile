@@ -61,8 +61,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Qikaile/py_scripts/issues/1) in [Qikaile/py_scripts](https://github.com/Qikaile/py_scripts)
-2. 💪 Opened PR [#1](https://github.com/Qikaile/py_scripts/pull/1) in [Qikaile/py_scripts](https://github.com/Qikaile/py_scripts)
+1. ❌ Closed PR [#4](https://github.com/Qikaile/cdn/pull/4) in [Qikaile/cdn](https://github.com/Qikaile/cdn)
+2. 💪 Opened PR [#4](https://github.com/Qikaile/cdn/pull/4) in [Qikaile/cdn](https://github.com/Qikaile/cdn)
 3. ❗️ Closed issue [#8](https://github.com/Qikaile/tjys-notes/issues/8) in [Qikaile/tjys-notes](https://github.com/Qikaile/tjys-notes)
 4. ❗️ Closed issue [#7](https://github.com/Qikaile/tjys-notes/issues/7) in [Qikaile/tjys-notes](https://github.com/Qikaile/tjys-notes)
 5. ❗️ Opened issue [#8](https://github.com/Qikaile/tjys-notes/issues/8) in [Qikaile/tjys-notes](https://github.com/Qikaile/tjys-notes)
