@@ -16,7 +16,7 @@
 
 ### 🎧 Music Playing 
 
-[<img src="https://novatorem.vercel.app/api/spotify" alt="Qikaile Spotify Playing" width="350" />](https://open.spotify.com/user/nalvfc5s1w552zttp8r4ya8jp)
+[<img src="https://spotify-lyart.vercel.app/api/spotify" alt="Qikaile Spotify Playing" width="350" />](https://open.spotify.com/user/nalvfc5s1w552zttp8r4ya8jp)
 
 
 ### :mailbox: Connect with me:
