@@ -48,7 +48,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [github中jsdelivr 如何缓存刷新](https://blog.qikaile.tk/index.php/archives/47/)
+- [jsdelivr 如何刷新缓存](https://blog.qikaile.tk/index.php/archives/47/)
 - [VB常见控件总结](https://blog.qikaile.tk/index.php/archives/42/)
 - [VB6.0学习笔记](https://blog.qikaile.tk/index.php/archives/41/)
 - [必备软件+网站推荐](https://blog.qikaile.tk/index.php/archives/40/)
