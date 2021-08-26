@@ -61,11 +61,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4](https://github.com/Qikaile/cdn/pull/4) in [Qikaile/cdn](https://github.com/Qikaile/cdn)
-2. 💪 Opened PR [#4](https://github.com/Qikaile/cdn/pull/4) in [Qikaile/cdn](https://github.com/Qikaile/cdn)
-3. ❗️ Closed issue [#8](https://github.com/Qikaile/tjys-notes/issues/8) in [Qikaile/tjys-notes](https://github.com/Qikaile/tjys-notes)
-4. ❗️ Closed issue [#7](https://github.com/Qikaile/tjys-notes/issues/7) in [Qikaile/tjys-notes](https://github.com/Qikaile/tjys-notes)
-5. ❗️ Opened issue [#8](https://github.com/Qikaile/tjys-notes/issues/8) in [Qikaile/tjys-notes](https://github.com/Qikaile/tjys-notes)
+1. 💪 Opened PR [#50](https://github.com/js-cool/js.cool/pull/50) in [js-cool/js.cool](https://github.com/js-cool/js.cool)
+2. ❌ Closed PR [#49](https://github.com/js-cool/js.cool/pull/49) in [js-cool/js.cool](https://github.com/js-cool/js.cool)
+3. ❌ Closed PR [#48](https://github.com/js-cool/js.cool/pull/48) in [js-cool/js.cool](https://github.com/js-cool/js.cool)
+4. 💪 Opened PR [#49](https://github.com/js-cool/js.cool/pull/49) in [js-cool/js.cool](https://github.com/js-cool/js.cool)
+5. 💪 Opened PR [#48](https://github.com/js-cool/js.cool/pull/48) in [js-cool/js.cool](https://github.com/js-cool/js.cool)
 <!--END_SECTION:activity-->
 
 </details>
