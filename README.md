@@ -61,11 +61,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#51](https://github.com/js-cool/js.cool/pull/51) in [js-cool/js.cool](https://github.com/js-cool/js.cool)
-2. ❌ Closed PR [#50](https://github.com/js-cool/js.cool/pull/50) in [js-cool/js.cool](https://github.com/js-cool/js.cool)
-3. 💪 Opened PR [#50](https://github.com/js-cool/js.cool/pull/50) in [js-cool/js.cool](https://github.com/js-cool/js.cool)
-4. ❌ Closed PR [#49](https://github.com/js-cool/js.cool/pull/49) in [js-cool/js.cool](https://github.com/js-cool/js.cool)
-5. ❌ Closed PR [#48](https://github.com/js-cool/js.cool/pull/48) in [js-cool/js.cool](https://github.com/js-cool/js.cool)
+1. 🎉 Merged PR [#1](https://github.com/Qikaile/OneManager-php/pull/1) in [Qikaile/OneManager-php](https://github.com/Qikaile/OneManager-php)
+2. 💪 Opened PR [#1](https://github.com/Qikaile/OneManager-php/pull/1) in [Qikaile/OneManager-php](https://github.com/Qikaile/OneManager-php)
+3. 💪 Opened PR [#51](https://github.com/js-cool/js.cool/pull/51) in [js-cool/js.cool](https://github.com/js-cool/js.cool)
+4. ❌ Closed PR [#50](https://github.com/js-cool/js.cool/pull/50) in [js-cool/js.cool](https://github.com/js-cool/js.cool)
+5. 💪 Opened PR [#50](https://github.com/js-cool/js.cool/pull/50) in [js-cool/js.cool](https://github.com/js-cool/js.cool)
 <!--END_SECTION:activity-->
 
 </details>
