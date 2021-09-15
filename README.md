@@ -61,11 +61,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Qikaile/OneManager-php/pull/1) in [Qikaile/OneManager-php](https://github.com/Qikaile/OneManager-php)
-2. 💪 Opened PR [#1](https://github.com/Qikaile/OneManager-php/pull/1) in [Qikaile/OneManager-php](https://github.com/Qikaile/OneManager-php)
-3. 💪 Opened PR [#51](https://github.com/js-cool/js.cool/pull/51) in [js-cool/js.cool](https://github.com/js-cool/js.cool)
-4. ❌ Closed PR [#50](https://github.com/js-cool/js.cool/pull/50) in [js-cool/js.cool](https://github.com/js-cool/js.cool)
-5. 💪 Opened PR [#50](https://github.com/js-cool/js.cool/pull/50) in [js-cool/js.cool](https://github.com/js-cool/js.cool)
+1. 🎉 Merged PR [#1](https://github.com/Qikaile/Python-100-Days/pull/1) in [Qikaile/Python-100-Days](https://github.com/Qikaile/Python-100-Days)
+2. 💪 Opened PR [#1](https://github.com/Qikaile/Python-100-Days/pull/1) in [Qikaile/Python-100-Days](https://github.com/Qikaile/Python-100-Days)
+3. 🎉 Merged PR [#1](https://github.com/Qikaile/OneManager-php/pull/1) in [Qikaile/OneManager-php](https://github.com/Qikaile/OneManager-php)
+4. 💪 Opened PR [#1](https://github.com/Qikaile/OneManager-php/pull/1) in [Qikaile/OneManager-php](https://github.com/Qikaile/OneManager-php)
+5. 💪 Opened PR [#51](https://github.com/js-cool/js.cool/pull/51) in [js-cool/js.cool](https://github.com/js-cool/js.cool)
 <!--END_SECTION:activity-->
 
 </details>
