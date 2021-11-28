@@ -54,7 +54,7 @@
 - [VB6.0学习笔记](https://qikaile.tk/VB6-0-study-notes.html)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://blog.qikaile.tk)
+➡️ [more blog posts...](https://www.qikaile.tk)
 
 ---
 <details>
