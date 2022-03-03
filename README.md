@@ -48,10 +48,10 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [博客转移服务器,数据备份](https://qikaile.tk/Typecho-blog-transfer.html)
-- [jsdelivr 如何刷新缓存](https://qikaile.tk/Jsdelivr-flushes-cache.html)
-- [VB常见控件总结](https://qikaile.tk/Summary-of-common-VB-controls.html)
-- [VB6.0学习笔记](https://qikaile.tk/VB6-0-study-notes.html)
+- [如何在百度收录平台注册账号获取Token](https://qikaile.tk/baidu-token.html)
+- [Hello World](https://qikaile.tk/hello-world.html)
+- [onedrive-cf-index 搭建教程](https://qikaile.tk/onedrive-cf-index-tutorial.html)
+- [uptime-status站点状态监控](https://qikaile.tk/uptime-status.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.qikaile.tk)
