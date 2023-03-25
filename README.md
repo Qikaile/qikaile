@@ -3,11 +3,9 @@
 [![Website](https://img.shields.io/website?label=qikaile.tk&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://qikaile.tk)
 [![Twitter Follow](https://img.shields.io/twitter/follow/qikaile?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=qikaile)
 
-<img align='right' src="https://media.giphy.com/media/gmNQVk8XaICriNl4cK/giphy.gif" width="230">
-<br />
-<br />
 
 ## 👨‍💻 I'm a Developer, Mechanical engineer, and Student !!
+<img align='right' src="https://media.giphy.com/media/gmNQVk8XaICriNl4cK/giphy.gif" width="230">
 
 - 🔭 I just set up my first blog: [TJYS][website]!
 - 🔍 I explore myself to discover my potential and interests.
