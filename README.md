@@ -17,7 +17,7 @@
 ### 🎧 Music Playing 
 
 <div align="center">
-[<img src="https://spotify.tjys.ml/api/spotify" alt="Qikaile Spotify Playing" width="350" />](https://open.spotify.com/user/nalvfc5s1w552zttp8r4ya8jp)
+  [![Spotify](https://spotify.tjys.ml/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/nalvfc5s1w552zttp8r4ya8jp)
 </div>
 
 ### :mailbox: Connect with me:
