@@ -5,13 +5,13 @@
 
 <img align='right' src="https://media.giphy.com/media/gmNQVk8XaICriNl4cK/giphy.gif" width="230">
 
-## I'm a Developer, Mechanical engineer, and Student !!
+## 👨‍💻 I'm a Developer, Mechanical engineer, and Student !!
 
 - 🔭 I just set up my first blog: [TJYS][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more projects
-- ⚡ Fun fact: I like taking photos
+- 🔍 I explore myself to discover my potential and interests.
+- 🌱 I am learning a new skill, such as programming or photography.
+- 🎯 My goal in 2023 is to contribute to more projects.
+- 💰 I save money to prepare for the future.
 
 
 ### 🎧 Music Playing 
