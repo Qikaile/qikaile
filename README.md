@@ -5,7 +5,6 @@
 
 
 ## 👨‍💻 I'm a Developer, Mechanical engineer, and Student !!
-<img align='right' src="https://media.giphy.com/media/gmNQVk8XaICriNl4cK/giphy.gif" width="230">
 
 - 🔭 I just set up my first blog: [TJYS][website]!
 - 🔍 I explore myself to discover my potential and interests.
