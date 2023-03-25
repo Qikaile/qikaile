@@ -16,8 +16,9 @@
 
 ### 🎧 Music Playing 
 
-[<img src="https://spotify-lyart.vercel.app/api/spotify" alt="Qikaile Spotify Playing" width="350" />](https://open.spotify.com/user/nalvfc5s1w552zttp8r4ya8jp)
-
+<div align="center">
+[<img src="https://spotify.tjys.ml/api/spotify" alt="Qikaile Spotify Playing" width="350" />](https://open.spotify.com/user/nalvfc5s1w552zttp8r4ya8jp)
+</div>
 
 ### :mailbox: Connect with me:
 [<img align="left" alt="Qikaile | Gmail" width="40px" src="https://img.icons8.com/bubbles/50/000000/gmail.png" />][gmail]
